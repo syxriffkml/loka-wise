@@ -1,0 +1,6 @@
+[functions.checkout]
+verify_jwt = false
+# checkout verifies the user token with Supabase Auth inside its handler.
+[functions.stripe-webhook]
+verify_jwt = false
+# Stripe signs webhooks; the handler verifies the signature on the raw body.

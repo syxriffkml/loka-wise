@@ -1,0 +1,26 @@
+LOKA WISE — VERCEL DEPLOYMENT
+
+1. Extract this ZIP.
+2. Upload the contents of LOKA-WISE-v2 to a Git repository and import it in Vercel,
+   or run `npx vercel` from inside LOKA-WISE-v2 using the Vercel CLI.
+3. Use these project settings:
+   Framework: Vite (not SvelteKit)
+   Root directory: the folder containing package.json and vercel.json
+   Build command: pnpm run build
+   Output directory: dist
+   Node.js: 24.x
+   Environment variables: none required for this demo
+
+vercel.json already specifies the framework, build command and output directory.
+The included dist folder is the latest locally verified production build.
+Hash routes (#home, #services, #reports, etc.) do not need a server rewrite.
+
+The source includes all latest changes: report graphs, branded PDFs, aligned
+service prices, homepage SVG map pins and the original logo-symbol favicon.
+
+Requests remain local to each visitor's browser. Supabase and payments are
+not enabled. Localhost demo requests do not move to the deployed domain.
+
+Official Vite deployment guide: https://vercel.com/docs/frameworks/frontend/vite
+
+This archive has been checked locally; it has not been deployed to Vercel.

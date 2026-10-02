@@ -1,0 +1,20 @@
+LOKA WISE v2 — BOOTH DEMO
+
+1. Extract the ZIP completely.
+2. Open LOKA-WISE-v2 and double-click Start Demo.cmd.
+3. Visit http://127.0.0.1:4318/#home
+4. Keep the server window open. Stop with Ctrl+C when finished.
+
+The original version uses port 4317. v2 uses 4318.
+Node.js 22.12+ is required. This computer can also use the bundled Codex runtime.
+No package installation is needed for the included ready-built dist folder.
+
+Use fictional details. Requests stay only in this browser.
+No consultant is contacted, no appointment is confirmed and no payment is taken.
+Supabase and payments are deferred.
+
+Retiree journey: choose guidance, select Help me choose, review, save.
+SME journey: compare SS15/TTDI, inspect a scenario, request your own report.
+Switch BM/EN at any time. Reset demo from My workspace between visitors.
+
+See README.md and VERIFICATION.md for details and testing evidence.

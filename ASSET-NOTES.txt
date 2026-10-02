@@ -1,0 +1,3 @@
+Business street asset: public/business-street.webp
+Generated with built-in image_gen; illustrative commercial scene, not a surveyed location.
+Prompt: Photorealistic editorial architecture photograph, wide 16:9, Malaysian business location consultancy. Contemporary Malaysian commercial shoplot street with cafe and small retail storefronts, shaded five-foot walkway, glass, concrete, subtle navy awning and tropical greenery. Clear commercial context, no residential or retirement housing, natural daylight, no close-up people, no elderly couple, no overlays or logos. Desktop and mobile crops.
