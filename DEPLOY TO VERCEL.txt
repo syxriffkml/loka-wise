@@ -1,3 +1,12 @@
+ONGOING UPDATES
+
+GitHub: https://github.com/syxriffkml/loka-wise
+Vercel: https://vercel.com/syxriffkmls-projects/loka-wise
+Live site: https://loka-wise.vercel.app/
+
+The repository is connected. Commit and push updates to main, then check
+the deployment in Vercel. ZIP uploads are no longer needed for routine updates.
+
 LOKA WISE — VERCEL DEPLOYMENT
 
 1. Extract this ZIP.
@@ -23,4 +32,4 @@ not enabled. Localhost demo requests do not move to the deployed domain.
 
 Official Vite deployment guide: https://vercel.com/docs/frameworks/frontend/vite
 
-This archive has been checked locally; it has not been deployed to Vercel.
+The original ZIP deployment is live. Git-based updates use the same Vercel project.

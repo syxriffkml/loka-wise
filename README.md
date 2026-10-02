@@ -128,8 +128,8 @@ This folder is the repository root. Commit source changes, assets, package.json,
 pnpm-lock.yaml and vercel.json. Dependencies, generated dist output, local
 verification screenshots and environment secrets are excluded by .gitignore.
 
-After the repository is connected in the existing project's Settings > Git,
-use main as the production branch. Push reviewed updates to main to deploy;
+The public repository https://github.com/syxriffkml/loka-wise is connected
+to the existing Vercel project. Use main as the production branch. Push reviewed updates to main to deploy;
 use separate branches for preview deployments. Check the deployment status
 and the public website after each release. No environment variables are
 required for the current local-demo functionality.
